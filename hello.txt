@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>
+project</title>
+</head>
+<body style=background-color:"black">
+<h3>breakfast-8:00 am to 9:00am</h3>
+<h3>lunch-12:00 pm to 2:00pm</h3>
+<h3>dinner-8:00 pm to 9:00pm</h3>
+<img style="float:left;width:33%;" src="3521156235_8ecf73cd5e_z_20200102163809.jpg"/>
+<img style="float:center;width:33%;border:2px solid white;border-width:0px 0px 0px 5px;" src="lunch4.jpg"/>
+<img style="float:right;width:33.3%"src="dinner2.jpg" />
+<table style="width:70%">
+<tr>
+<thead>
+<div>
+<margin: -10px,-50px,-10px; >
+<th width="18px" >breakfast</th>
+<th width="10px"  >lunch</th>
+<th width="50%">dinner</th>
+</tr></div>
+<style>
+
+</body>
+
