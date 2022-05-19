@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>
-project</title>
+Project</title>
 </head>
 <body style=background-color:"black">
 <h3>breakfast-8:00 am to 9:00am</h3>
