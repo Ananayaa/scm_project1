@@ -54,7 +54,7 @@
             <div class="col"><a href="https://www.betterhealth.vic.gov.au/health/servicesandsupport/types-of-mental-health-issues-and-illnesses">
                 <img src="image2.jpeg" alt="" height="400px" width="350px"></a>
                 <h4>Social issues</h4>
-                <p>Series of blog posts about LGBTQ, Women empowerment,
+                <p>Series of blog posts about about LGBTQ, Women empowerment,
                     and many other social issues.</p>
                     
 
